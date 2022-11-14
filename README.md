@@ -5,5 +5,5 @@
 ## Folders within include:
 
 - [QuantumGravity](https://github.com/johngrahamreynolds/Physics/tree/main/QuantumGravity)
-- Research
+- [Research](https://github.com/johngrahamreynolds/Physics/tree/main/Research)
 - Writings
