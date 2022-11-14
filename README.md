@@ -4,6 +4,6 @@
 
 ## Folders within include:
 
-- QuantumGravity
+- [QuantumGravity](https://github.com/johngrahamreynolds/Physics/tree/main/QuantumGravity)
 - Research
 - Writings
