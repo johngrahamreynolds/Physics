@@ -7,4 +7,4 @@
 - [Solutions](https://github.com/johngrahamreynolds/Physics/tree/main/Solutions)
 - [QuantumGravity](https://github.com/johngrahamreynolds/Physics/tree/main/QuantumGravity)
 - [Research](https://github.com/johngrahamreynolds/Physics/tree/main/Research)
-- Writings
+- [Writings](https://github.com/johngrahamreynolds/Physics/tree/main/Writings)
