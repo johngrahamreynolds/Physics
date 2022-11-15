@@ -12,6 +12,6 @@ on a multitude of sub-projects.
 summer at Hopkins working on CLASS. I spent the summer researching, developing, and testing the cryogenic receivers for the 90 GHz receiver, with the 
 receiver focal plane reaching sub-50mK temperatures. 
 
-  At the end of summer, I presented this work as a large [poster](https://github.com/johngrahamreynolds/Physics/blob/main/Research/CLASSTelescope/90GHzReceiverPoster.pdf) at the 
-  [2018 Hopkins C.A.R.E.S. Symposium]()(listed at #7) for 
+  At the end of summer, I presented my work as a [large poster](https://github.com/johngrahamreynolds/Physics/blob/main/Research/CLASSTelescope/90GHzReceiverPoster.pdf) at the 
+  [2018 Hopkins C.A.R.E.S. Symposium](https://github.com/johngrahamreynolds/Physics/blob/main/Research/CLASSTelescope/2018%20Hopkins%20CARES%20Poster%20Schedule.pdf) (poster #7) for 
 undergraduate research. 
