@@ -34,5 +34,5 @@ To be added: AMPS paper overview to be discussed
 
 ## Semi-classical Gravity, Quantum Field Theory in Curved Spacetime
 
-To be added: Slight overview, link to [Jacobson notes]() used for independent study.
+To be added: Slight overview, link to [Jacobson notes](https://arxiv.org/abs/gr-qc/0308048) used for independent study.
 
