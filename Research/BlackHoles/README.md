@@ -1,37 +1,38 @@
-# Theoretical Physis Research (Black Holes, Quantum Gravity)
+# Theoretical Physics Research (Black Holes, Quantum Gravity)
+
+Fall 2018, I took a graduate course on General Relativity taught by David Kaplan. 
+
+Shortly after completion (Spring 2019), I began working with David and his collaborator Surjeet Rajendran (then at Berkeley, currently at Hopkins) on their research into the notion of *Firewalls* in the context of *the Black Hole Information Paradox*. See below for descriptions and connections.
+
+<ins>Precursor to the research I conducted:</ins> 
+
+- My work was based on their initial paper [Firewalls in General Relativity](https://arxiv.org/abs/1812.00536#:~:text=We%20present%20spherically%20symmetric%20solutions,respective%20event%20and%20inner%20horizons.).
+
+- In the above, the authors present solutions to Einstein's equations which correspond identically to the canonical solutions of Schwarzschild and Reissner-Nordstrom (neautral and charged, respectively, non-rotating black holes) on the exterior of the black holes but with Planck-density shells (firewalls) located at their respective event and inner horizons. As a result, the existence of such solutions suggests a nautral explanation for the information paradox in the context of Schwarzschild black holes and the Cauchy horizon problem in the context of Reissner-Nordstrom black holes.
+
+- The paper does not present a rigorous mathematical argument for how such solutions may evolve. This was the focus of my extended research on the subject.
+
+<ins>My work begins:</ins>
+
+- Spring 2019, I began looking for an exact (analytic) spherically symmetric solution to Einstein's equation coupled with Proca's equation. Such a solution would correspond to a black hole intimately coupled to a massive vector boson. In the framework of Quantum Field Theory, the Proca equation describes the propagation of a massive spin-1 field. It has been verified that this equation describes the W<sup>+,-</sup> and Z intermediate vector bosons of the Standard Model.
+
+- The hope behind finding such a solution was that one could appropriately scale the mass of the spin-1 field inside the black holes to correspond to the evolution of such a Planck-density shell at the (event, inner, respectively) horizon of each black hole. From the outset, the existence of a such a solution was not expected: [Bekenstein has showed]() that black holes cannot be endowed with a massive vector field on their *exterior*. 
+
 
 ## The Black Hole Information Paradox
 
+In 1974, Stephen Hawking combined notions of Quantum Mechanics and General Relativity to show that isolated black holes must radiate information back out into the universe. Black holes, being characterized by another famous propisiton known as the no-hair theorem, are described only by three external characteristics: their mass, spin, and charge. Then, Hawking argued, the emitted radiation would depend only on these three qualities of the black hole. 
+
+The notion of a paradox arises when one considers how different, unique initial states (stars, per say) can hypothetically evolve into identical black holes (whose characterization depends only on 3 things). After these identical black holes eventually radiate out all their information, again dependent only upon their intermediate black hole state, one can not distinguish between the radiation of the two initial states (stars). Thus, we arrive at the notion of information loss.
+
+To be added: Other popular ideas on resolution?
 
 ## Firewalls
+
+To be added: AMPS paper overview to be discussed
 
 
 ## Semi-classical Gravity, Quantum Field Theory in Curved Spacetime
 
-From 2017 to 2019, I worked as an undergraduate researcher on the [CLASS telescope](https://sites.krieger.jhu.edu/class/) 
-([wiki](https://en.wikipedia.org/wiki/Cosmology_Large_Angular_Scale_Surveyor#:~:text=The%20Cosmology%20Large%20Angular%20Scale,the%20Parque%20Astron%C3%B3mico%20de%20Atacama.)) 
-on a multitude of sub-projects.
+To be added: Slight overview, link to [Jacobson notes]() used for independent study.
 
-- September 2017 - Summer 2018
-  
-  Adjacent to coursework in Physics and Math, I helped construct the telescope system's second mount base, wiring, platform, and receiver cage. Work consisted of regular time spent engineering wiring, metal parts, and computers on the telescope platform. Returned to campus during the January term to help suport continued development.
-
-- Summer 2018 
-
-  I was awarded a Bloomberg Distinguished Professor Summer Teaching and Research (BDP STAR) stipend by Bloomberg Distinguished Professor Chuck Bennett to fund my research over the 
-summer at Hopkins working on CLASS. I spent the summer researching, developing, and testing the cryogenic receivers for the 90 GHz receiver, with the 
-receiver focal plane reaching sub-50mK temperatures.
-  During this summer I took a cosmology course to supplement my knowledge of the theory behind the system's purpose.
-
-  At the end of summer, I presented my work as a [large poster](https://github.com/johngrahamreynolds/Physics/blob/main/Research/CLASSTelescope/90GHzReceiverPoster.pdf) at the 
-  [2018 Hopkins C.A.R.E.S. Symposium](https://github.com/johngrahamreynolds/Physics/blob/main/Research/CLASSTelescope/2018%20Hopkins%20CARES%20Poster%20Schedule.pdf) (poster #7) for 
-undergraduate research. 
-
-- September 2018 - December 2018
-
-  Continued telescope analysis and development in a variety of manners: focal planes, cryostats, hardware. I helped to disassmble and package the second mount, receiver cage, and cryostat receivers into a shipping container to be sailed to northern Chile, and hence hauled to the observation site.
-  
-- January 2019
-  
-  Flew to Chile with lead project engineer to help unpack and assemble the telescope at its observation site in the Atacama Desert. The observation site for the telescope system is atop [Cerro Toco](https://en.wikipedia.org/wiki/Cerro_Toco), a stratovolcano in Antofogasta, Chile, 
-at approximately 17000ft, ~5200m.
