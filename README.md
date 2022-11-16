@@ -9,5 +9,7 @@ This folder houses typed versions of my writing, problem solving, research, stud
   - [CLASS Telescope](https://github.com/johngrahamreynolds/Physics/tree/main/Research/CLASSTelescope)
   - [Black Holes, Firewalls, the Information Paradox](https://github.com/johngrahamreynolds/Physics/tree/main/Research/BlackHoles)
 - [Solutions](https://github.com/johngrahamreynolds/Physics/tree/main/Solutions)
+  - [Quantum Field Theory](https://github.com/johngrahamreynolds/Physics/tree/main/Solutions/QuantumFieldTheory)
+  - [Strings, Mathematical Physics]
 - [QuantumGravity](https://github.com/johngrahamreynolds/Physics/tree/main/QuantumGravity)
 - [Writings](https://github.com/johngrahamreynolds/Physics/tree/main/Writings)
