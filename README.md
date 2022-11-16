@@ -1,5 +1,5 @@
 # Physics
-This folder houses typed versions of my writing, problem solving, research, study, etc. on all things physics related. The vast majority of my notes are written by hand, but I plan to gradually type them and post them here.
+This folder houses typed versions of my writing, problem solving, research, study, etc. on all things physics related. The vast majority of my notes are written by hand, but I plan to gradually type them and post them here. This also houses an overview of my experience and various contributions in the field.
 
 
 ## Folders within include:
