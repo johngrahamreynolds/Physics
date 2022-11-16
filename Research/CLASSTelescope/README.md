@@ -1,6 +1,9 @@
 # Cosmology Large Angular Scale Surveyor (CLASS) Research
 
-#### CLASS is a four telescope array designed to measure the polarization of the cosmic microwave background (CMB) in order to characterize relic primordial gravitational waves corresponding to cosmic inflation and the optical depth to reionization.
+
+### CLASS is a four telescope array designed to measure the polarization of the cosmic microwave background (CMB) in order to characterize relic primordial gravitational waves corresponding to cosmic inflation and the optical depth to reionization.
+
+Under the direction of Co-PIs Toby Marriage and Chuck Bennett, various postdocs, and astronomy engineers, I spent nearly 2 years researching and developing this telescope system to study cosmology.
 
 From 2017 to 2019, I worked as an undergraduate researcher on the [CLASS telescope](https://sites.krieger.jhu.edu/class/) 
 ([wiki](https://en.wikipedia.org/wiki/Cosmology_Large_Angular_Scale_Surveyor#:~:text=The%20Cosmology%20Large%20Angular%20Scale,the%20Parque%20Astron%C3%B3mico%20de%20Atacama.)) 
@@ -27,5 +30,5 @@ undergraduate research.
   
 - January 2019
   
-  Flew to Chile with lead project engineer to help unpack and assemble the telescope at its observation site in the Atacama Desert. The observation site for the telescope system is atop [Cerro Toco](https://en.wikipedia.org/wiki/Cerro_Toco), a stratovolcano in Antofogasta, Chile, 
+  I flew to Chile with lead project engineer to help unpack and assemble the telescope at its observation site in the Atacama Desert. The observation site for the telescope system is atop [Cerro Toco](https://en.wikipedia.org/wiki/Cerro_Toco), a stratovolcano in Antofogasta, Chile, 
 at approximately 17000ft, ~5200m.
