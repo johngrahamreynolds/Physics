@@ -4,7 +4,10 @@ This repo houses typed versions of my writing, problem solving, research, study,
 
 ## Folders within include:
 
+- [Research](https://github.com/johngrahamreynolds/Physics/tree/main/Research)
+
+  - [CLASS Telescope](https://github.com/johngrahamreynolds/Physics/tree/main/Research/CLASSTelescope)
+  - [Black Holes, Firewalls, the Information Paradox](https://github.com/johngrahamreynolds/Physics/tree/main/Research/BlackHoles)
 - [Solutions](https://github.com/johngrahamreynolds/Physics/tree/main/Solutions)
 - [QuantumGravity](https://github.com/johngrahamreynolds/Physics/tree/main/QuantumGravity)
-- [Research](https://github.com/johngrahamreynolds/Physics/tree/main/Research)
 - [Writings](https://github.com/johngrahamreynolds/Physics/tree/main/Writings)
