@@ -35,4 +35,4 @@ This folder houses latexed versions of selected solutions for my problem solving
     *A First Course in String Theory*, the [book](https://www.cambridge.org/us/academic/subjects/physics/theoretical-physics-and-mathematical-physics/first-course-string-theory-2nd-edition?format=HB&isbn=9780521880329)
     by Barton Zwiebach (MIT): Ch.1 - Ch. 3
     
-    - An modestly sophisticated introduction to String Theory, based on a course taught to upper-level undergraduates at MIT.
+    - A modestly sophisticated introduction to String Theory, based on a course taught to upper-level undergraduates at MIT.
