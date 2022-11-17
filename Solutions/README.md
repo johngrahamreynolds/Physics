@@ -1,7 +1,9 @@
 # Solutions
-In my free time, I enjoy continuing my graduate-level physics education. In a calculated capacity, balancing breadth and depth, I read highly-prasied and community standard texts while solving (and validating solutions to) as many problems in them as I can to solidy my knowledge of the material. 
+In my free time, I enjoy continuing my graduate-level physics education. In a calculated capacity, balancing breadth and depth, I read community standard texts while solving (and validating solutions to) as many problems in them as I can to solidy my knowledge of the material. 
 
-This folder houses latexed versions of selected solutions for my problem solving *since April 2022*. In more "formal" settings I have solved lots of exercises in the regimes of general relativity and semi-classical quantum gravity. While I hope to revisit this work eventually, I have priortized collecting here my most recent work on subjects with which I do not yet have a complete background.   
+Over the years, there have been countless excellent courses taught on these subjects. For relevant topics below (like QFT), I have found lauded courses and their corresponding notes, semesterly agenda to aid in the direction of my learning.
+
+This folder houses latexed versions of selected solutions for my problem solving *since April 2022*. In more "formal" settings, I have solved lots of exercises in the regimes of general relativity and semi-classical quantum gravity. While I hope to revisit this work eventually, I have priortized collecting here my most recent work on subjects with which I do not yet have a complete background.   
 
 
 ## Folders within include:
