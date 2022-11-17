@@ -26,7 +26,7 @@ undergraduate research.
 
 - September 2018 - December 2018
 
-  Continued telescope analysis and development in a variety of manners: focal planes, cryostats, hardware. I helped to disassmble and package the second mount, receiver cage, and cryostat receivers into a shipping container to be sailed to northern Chile, and hence hauled to the observation site.
+  Continued telescope analysis and development in a variety of manners: focal planes, cryostats, hardware. I helped to disassemble and package the second mount, receiver cage, and cryostat receivers into a shipping container to be sailed to northern Chile, and hence hauled to the observation site.
   
 - January 2019
   
