@@ -1,5 +1,5 @@
 # Solutions
-In my free time, I enjoy continuing my graduate-level physics education. In a calculated capacity, balancing breadth and depth, I read standard physics community approved texts while solving (and validating solutions to) as many problems in them as I can to solidy my knowledge of the material. 
+In my free time, I enjoy continuing my graduate-level physics education. In a calculated capacity, balancing breadth and depth, I read physics community recommended texts while solving (and validating solutions to) as many problems in them as I can to solidy my knowledge of the material. 
 
 Over the years, there have been countless excellent courses taught on these subjects. For relevant topics below (like QFT), I have found lauded courses and their corresponding notes, semesterly agenda to aid in the direction of my learning.
 
