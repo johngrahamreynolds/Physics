@@ -3,7 +3,7 @@
 This folder houses relevant research projects that I have contributed to.
 
 - [Cosmology Large Angular Scale Surveyor (CLASS)](https://github.com/johngrahamreynolds/Physics/tree/main/Research/CLASSTelescope)
-  - A four telescope array designed, tested, and built at Johns Hopkins. After completion of simulation, the various telescope components are sailed to 
+  - A four telescope array designed and built at Johns Hopkins. After completion of simulation, the various telescope components are sailed to 
   the system's proper observation site in Antofagasta, Chile. I contributed to research on this project in a multitude of ways over an extended period of 
   time. 
 
