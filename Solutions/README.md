@@ -3,7 +3,7 @@ In my free time, I enjoy continuing my graduate-level physics education. In a ca
 
 Over the years, there have been countless excellent courses taught on these subjects. For relevant topics below (like QFT), I have found lauded courses and their corresponding notes and semesterly agenda to aid in the direction of my learning.
 
-This folder houses latexed versions of selected solutions for my problem solving *since April 2022*. In more "formal" settings, I have solved lots of exercises in the regimes of general relativity and semi-classical quantum gravity. While I hope to revisit this work eventually, I have priortized collecting here my most recent work on subjects with which I do not yet have a more complete background.   
+This folder houses latexed versions of selected solutions for my problem solving *since April 2022*. In more "formal" settings, I have solved lots of exercises in the regimes of general relativity and semi-classical gravity. While I hope to revisit this work eventually, I have priortized collecting here my most recent work on subjects with which I do not yet have a more complete background.   
 
 
 ## Folders within include:
