@@ -18,6 +18,9 @@ Shortly after completion (Spring 2019), I began working with David and his colla
 
 - The hope behind finding such a solution was that one could appropriately scale the mass of the spin-1 field inside the black holes to correspond to the evolution of such a Planck-density shell at the (event, inner, respectively) horizon of each black hole. From the outset, the existence of a such a solution was not expected: [Bekenstein has showed]() that black holes cannot be endowed with a massive vector field on their *exterior*. 
 
+- Eventually, plausible evidence for the non-existence of such an exact solution led to general black hole study and consideration of an argument similar to Bekenstein’s. Ultimately, I spent the next semester studying semi-classical gravity aided by Jacobson’s notes on 
+[Quantum Field Theory in Curved Spacetime](https://arxiv.org/abs/gr-qc/0308048) in the form of Independent Research Credits.
+
 
 ## The Black Hole Information Paradox
 
