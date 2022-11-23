@@ -8,7 +8,7 @@ Shortly after completion (Spring 2019), I began working with David and his colla
 
 - My work was based on their initial paper [Firewalls in General Relativity](https://arxiv.org/abs/1812.00536#:~:text=We%20present%20spherically%20symmetric%20solutions,respective%20event%20and%20inner%20horizons.).
 
-- In the above, the authors present solutions to Einstein's equations which correspond identically to the canonical solutions of Schwarzschild and Reissner-Nordstrom (neautral and charged, respectively, non-rotating black holes) on the exterior of the black holes but with Planck-density shells (firewalls) located at their respective event and inner horizons. As a result, the existence of such solutions suggests a nautral explanation for the information paradox in the context of Schwarzschild black holes and the Cauchy horizon problem in the context of Reissner-Nordstrom black holes.
+- In the above, the authors present solutions to Einstein's equations which correspond identically to the canonical solutions of Schwarzschild and Reissner-Nordstrom (neutral and charged, respectively, non-rotating black holes) on the exterior of the black holes but with Planck-density shells (firewalls) located at their respective event and inner horizons. As a result, the existence of such solutions suggests a nautral explanation for the information paradox in the context of Schwarzschild black holes and the Cauchy horizon problem in the context of Reissner-Nordstrom black holes.
 
 - The paper does not present a rigorous mathematical argument for how such solutions may evolve. This was the focus of my extended research on the subject.
 
