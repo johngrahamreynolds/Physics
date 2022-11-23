@@ -1,6 +1,6 @@
 # Research
 
-This folder houses relevant research projects that I have contributed to.
+This folder houses relevant research projects that I have contributed to and a Mathematica folder for computing relevant quantities in mathematical physics research.
 
 - [Cosmology Large Angular Scale Surveyor (CLASS)](https://github.com/johngrahamreynolds/Physics/tree/main/Research/CLASSTelescope)
   - A four telescope array designed and built at Johns Hopkins. After consturction and development, the various telescope components are sailed to 
