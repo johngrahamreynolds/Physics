@@ -1,5 +1,5 @@
 # Solutions
-In my free time, I enjoy continuing my graduate-level physics education. In a calculated capacity, balancing breadth and depth, I read physics community recommended texts while solving (and validating solutions to) as many problems in them as I can to solidy my knowledge of the material. The vast majority of my notes are *written by hand*, but I plan to gradually type them and post them here.
+In my free time, I enjoy continuing my graduate-level physics education. In a calculated capacity, balancing breadth and depth, I read physics community recommended texts while solving (and validating solutions to) as many problems in them as I can to solidify my knowledge of the material. The vast majority of my notes are *written by hand*, but I plan to gradually type them and post them here.
 
 Over the years, there have been countless excellent courses taught on these subjects. For relevant topics below (like QFT), I have found lauded courses and their corresponding notes and semesterly agenda to aid in the direction of my learning.
 
@@ -26,6 +26,11 @@ This folder houses latexed versions of selected solutions for my problem solving
  
 - [Strings, Mathematical Physics]()
   - I have read through the listed sections and solved problems from:
+ 
+    *String Theory and M-Theory*, the [book](https://www.cambridge.org/core/books/string-theory-and-mtheory/0D112662D065F738422C8A6E507545AB)
+    by K. Becker, M. Becker, J. H. Schwarz (Texas A&M, Texas A&M, Cal Tech): Ch. 2
+
+    - The most up-to-date string text, a masterpiece. 
   
     *Geometry of String Theory Compactifications*, the [book](https://www.cambridge.org/core/books/geometry-of-string-theory-compactifications/F65178AB15B1CCAAD7645BBF221E17B4) 
     by Alessandro Tomasiello (Milano-Bicocca): Ch. 2
