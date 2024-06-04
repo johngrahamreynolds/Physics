@@ -8,7 +8,7 @@ This folder houses latexed versions of selected solutions for my problem solving
 
 ## Folders within include:
 
-- [Quantum Field Theory Solutions]()
+- [Quantum Field Theory Solutions](https://github.com/johngrahamreynolds/Physics/tree/main/Solutions/QuantumFieldTheory)
   - I have read through and solved problems from the listed sections of:
     
     *Quantum Field Theory and the Standard Model*, the [book](https://schwartzqft.fas.harvard.edu/) by Matthew D. Schwartz (Harvard): Ch.1 - Ch. 10
