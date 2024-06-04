@@ -24,7 +24,7 @@ This folder houses latexed versions of selected solutions for my problem solving
       
       - Lecture notes and problems for the Mathematical Tripos III QFT course at Cambridge taught by D. Tong.
  
-- [Strings, Mathematical Physics]()
+- [Strings, Mathematical Physics](https://github.com/johngrahamreynolds/Physics/tree/main/Solutions/Strings%2CMathematicalPhysics)
   - I have read through the listed sections and solved problems from:
  
     *String Theory and M-Theory*, the [book](https://www.cambridge.org/core/books/string-theory-and-mtheory/0D112662D065F738422C8A6E507545AB)
