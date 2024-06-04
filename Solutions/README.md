@@ -28,7 +28,7 @@ This folder houses latexed versions of selected solutions for my problem solving
   - I have read through the listed sections and solved problems from:
  
     *String Theory and M-Theory*, the [book](https://www.cambridge.org/core/books/string-theory-and-mtheory/0D112662D065F738422C8A6E507545AB)
-    by K. Becker, M. Becker, J. H. Schwarz (Texas A&M, Texas A&M, Cal Tech): Ch. 2
+    by K. Becker, M. Becker, J. H. Schwarz (Texas A&M, Texas A&M, Cal Tech): Ch. 2 - Ch. 4
 
     - The most up-to-date string text, a masterpiece. 
   
